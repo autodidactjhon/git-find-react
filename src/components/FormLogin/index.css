@@ -1,0 +1,13 @@
+.FormLogin{
+}
+
+.titleLogin {
+	display: block;
+	font-size: 60px;
+}
+
+.inputLogin {
+	display: block;
+	width: 80%;
+	padding: 20px;
+}

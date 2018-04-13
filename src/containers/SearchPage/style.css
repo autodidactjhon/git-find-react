@@ -1,0 +1,17 @@
+.card {
+	border: solid 1px red;
+}
+
+.card-button {
+	background-color: black;
+	color: blue;
+	padding: 20px;
+	width: 70px;
+}
+
+.card-favorita {
+	padding: 20px;
+	color: white;
+	background-color: green;
+	display: inline;
+}
